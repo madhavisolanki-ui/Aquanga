@@ -1,0 +1,10 @@
+station_id,location,year,predicted_do,bod,fecal_coliform,risk_score,risk_level,warning
+0,"GANGA AT ALLAHABAD D/S (SANGAM), U.P.",2016,7.747945,4.1,21300.0,2,Medium,Water quality requires monitoring
+1,GANGA AT DAKSHINESHWAR,2016,7.379063,4.8,182500.0,2,Medium,Water quality requires monitoring
+4,"GANGA AT KANNAUJ D/S, U.P",2016,7.7644963,3.7,2930.0,2,Medium,Water quality requires monitoring
+5,GANGA AT KANNAUJ U/S (RAJGHAT),2016,7.7767076,3.5,2270.0,2,Medium,Water quality requires monitoring
+6,GANGA AT KANPUR D/S (JAJMAU PUMPING STATION),2016,7.759508,5.5,20889.0,2,Medium,Water quality requires monitoring
+9,"GANGA AT VARANASI D/S (MALVIYA BRIDGE), U.P",2016,7.753108,4.9,32500.0,2,Medium,Water quality requires monitoring
+8,GANGA AT TRIGHAT (GHAZIPUR),2016,7.7835298,4.2,22000.0,2,Medium,Water quality requires monitoring
+2,GANGA AT GARHMUKTESHWAR,2016,7.7366996,3.0,733.0,1,Low,Monitor water quality
+7,GANGA AT KANPUR U/S (RANIGHAT),2016,7.775426,2.9,3267.0,1,Low,Monitor water quality
