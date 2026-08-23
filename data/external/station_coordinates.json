@@ -1,0 +1,72 @@
+{
+  "GANGA AT HARIDWAR D/S": {
+    "latitude": 29.9457,
+    "longitude": 78.1642,
+    "state": "Uttarakhand",
+    "district": "Haridwar",
+    "location_type": "Downstream"
+  },
+  "GANGA AT GARHMUKTESHWAR": {
+    "latitude": 28.7844,
+    "longitude": 78.0988,
+    "state": "Uttar Pradesh",
+    "district": "Hapur",
+    "location_type": "Riverfront"
+  },
+  "GANGA AT KANNAUJ U/S (RAJGHAT)": {
+    "latitude": 27.0543,
+    "longitude": 79.9328,
+    "state": "Uttar Pradesh",
+    "district": "Kannauj",
+    "location_type": "Upstream"
+  },
+  "GANGA AT KANNAUJ D/S, U.P": {
+    "latitude": 27.0712,
+    "longitude": 79.9542,
+    "state": "Uttar Pradesh",
+    "district": "Kannauj",
+    "location_type": "Downstream"
+  },
+  "GANGA AT KANPUR U/S (RANIGHAT)": {
+    "latitude": 26.4933,
+    "longitude": 80.3475,
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "location_type": "Upstream"
+  },
+  "GANGA AT KANPUR D/S (JAJMAU PUMPING STATION)": {
+    "latitude": 26.4386,
+    "longitude": 80.4078,
+    "state": "Uttar Pradesh",
+    "district": "Kanpur Nagar",
+    "location_type": "Downstream"
+  },
+  "GANGA AT ALLAHABAD D/S (SANGAM), U.P.": {
+    "latitude": 25.4358,
+    "longitude": 81.8883,
+    "state": "Uttar Pradesh",
+    "district": "Prayagraj",
+    "location_type": "Downstream / Confluence"
+  },
+  "GANGA AT VARANASI D/S (MALVIYA BRIDGE), U.P": {
+    "latitude": 25.3216,
+    "longitude": 83.0322,
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "location_type": "Downstream"
+  },
+  "GANGA AT TRIGHAT (GHAZIPUR)": {
+    "latitude": 25.5682,
+    "longitude": 83.5857,
+    "state": "Uttar Pradesh",
+    "district": "Ghazipur",
+    "location_type": "Riverfront"
+  },
+  "GANGA AT DAKSHINESHWAR": {
+    "latitude": 22.6533,
+    "longitude": 88.3575,
+    "state": "West Bengal",
+    "district": "Kolkata",
+    "location_type": "Riverfront / Tidal"
+  }
+}
