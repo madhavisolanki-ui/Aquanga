@@ -1,0 +1,38 @@
+[
+  {
+    "Model":"XGBoost",
+    "MAE":0.9896,
+    "RMSE":1.4296,
+    "R2":-2.4544
+  },
+  {
+    "Model":"Random Forest",
+    "MAE":1.06,
+    "RMSE":1.454,
+    "R2":-2.5733
+  },
+  {
+    "Model":"Linear Regression",
+    "MAE":1.339,
+    "RMSE":2.0,
+    "R2":-5.7611
+  },
+  {
+    "Model":"1D CNN",
+    "MAE":1.5153,
+    "RMSE":2.4928,
+    "R2":-9.504
+  },
+  {
+    "Model":"LSTM",
+    "MAE":1.5676,
+    "RMSE":2.2987,
+    "R2":-7.9321
+  },
+  {
+    "Model":"CNN + LSTM",
+    "MAE":1.6784,
+    "RMSE":2.335,
+    "R2":-8.2164
+  }
+]

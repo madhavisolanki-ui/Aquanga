@@ -1,0 +1,20 @@
+{
+  "best_model_name": "XGBoost",
+  "mae": 0.9896,
+  "rmse": 1.4296,
+  "r2": -2.4544,
+  "feature_columns": [
+    "do_lag1",
+    "bod_lag1",
+    "fecal_coliform_lag1",
+    "do_change",
+    "bod_change",
+    "fecal_coliform_change",
+    "do_good",
+    "bod_good",
+    "fecal_good",
+    "water_quality_score",
+    "year_index",
+    "station_id"
+  ]
+}
