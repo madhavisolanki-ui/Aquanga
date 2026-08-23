@@ -9,8 +9,18 @@ import json
 import pandas as pd
 import streamlit as st
 
-# Add project root to sys.path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+# Ensure project root is prioritized in sys.path and remove dashboard dir to prevent package shadowing
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if ROOT_DIR not in sys.path:
+    sys.path.insert(0, ROOT_DIR)
+
+dashboard_dir = os.path.abspath(os.path.dirname(__file__))
+while dashboard_dir in sys.path:
+    sys.path.remove(dashboard_dir)
+
+# If 'app' in sys.modules is this script file instead of the package, reset it
+if "app" in sys.modules and not hasattr(sys.modules["app"], "__path__"):
+    del sys.modules["app"]
 
 from app.services.prediction_service import predictor
 from app.services.risk_service import calculate_risk
